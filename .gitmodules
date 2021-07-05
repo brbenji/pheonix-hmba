@@ -4,3 +4,12 @@
 [submodule "themes/sam"]
 	path = themes/sam
 	url = https://github.com/victoriadrake/hugo-theme-sam.git
+[submodule "themes/hugrid"]
+	path = themes/hugrid
+	url = https://github.com/aerohub/hugrid
+[submodule "themes/themes/PaperMod"]
+	path = themes/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
