@@ -28,7 +28,7 @@ author template:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-allie harris:
+allie:
   name             : "allie"
   avatar           : "/assets/images/profile_allie_name.png"
   bio              : "fear is just procrastination"
@@ -54,7 +54,7 @@ allie harris:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-levi methvin:
+levi:
   name             : "levi"
   avatar           : "/assets/images/profile_levi_name.png"
   bio              : "to be an artist you need interests"
