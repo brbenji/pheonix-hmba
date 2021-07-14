@@ -8,7 +8,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.2.0"
-gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll", git: "https://github.com/brbenji/minimal-mistakes.git"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
