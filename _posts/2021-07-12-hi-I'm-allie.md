@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 author: allie
 ---
 moun'ains.
