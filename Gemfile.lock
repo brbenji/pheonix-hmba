@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/brbenji/minimal-mistakes.git
-  revision: 924fec77c1d74cfb1e23f51876ac3408dc53eaec
+  revision: cd442e6be209d63bb05133a47c4fe0efe5d89e61
   specs:
     minimal-mistakes-jekyll (4.24.0)
       jekyll (>= 3.7, < 5.0)
@@ -21,7 +21,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    faraday (1.5.1)
+    faraday (1.7.2)
       faraday-em_http (~> 1.0)
       faraday-em_synchrony (~> 1.0)
       faraday-excon (~> 1.1)
@@ -29,6 +29,7 @@ GEM
       faraday-net_http (~> 1.0)
       faraday-net_http_persistent (~> 1.1)
       faraday-patron (~> 1.0)
+      faraday-rack (~> 1.0)
       multipart-post (>= 1.2, < 3)
       ruby2_keywords (>= 0.0.4)
     faraday-em_http (1.0.0)
@@ -38,7 +39,8 @@ GEM
     faraday-net_http (1.0.1)
     faraday-net_http_persistent (1.2.0)
     faraday-patron (1.0.0)
-    ffi (1.15.3)
+    faraday-rack (1.0.0)
+    ffi (1.15.4)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (1.8.10)
@@ -78,7 +80,7 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
-    listen (3.5.1)
+    listen (3.7.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
@@ -94,7 +96,7 @@ GEM
       ffi (~> 1.0)
     rexml (3.2.5)
     rouge (3.26.0)
-    ruby2_keywords (0.0.4)
+    ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
