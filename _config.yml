@@ -20,7 +20,7 @@ title                    : "howm"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ben Brown"
-description              : "a collection of knowledge for the collective for artist development."
+description              : "a collection of knowledge for the musician collective."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "ben"
   avatar           : "/assets/images/profile_ben.webp"
-  bio              : "Hello and welcome."
-  location         : "Camping across the U.S."
+  bio              : "hello and welcome."
+  location         : "camping road trip!"
   email            :
   links:
     - label: "Email"

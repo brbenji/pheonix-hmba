@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/brbenji/minimal-mistakes.git
-  revision: cd442e6be209d63bb05133a47c4fe0efe5d89e61
+  revision: af9387dc4a931a4524cccdbf685ca55f1609f3a8
   specs:
     minimal-mistakes-jekyll (4.24.0)
       jekyll (>= 3.7, < 5.0)
