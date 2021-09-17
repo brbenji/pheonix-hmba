@@ -289,3 +289,48 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _essentials
+  - scope:
+      path: ""
+      type: essentials
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  # _narrative
+  - scope:
+      path: ""
+      type: narrative
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  # _patreon
+  - scope:
+      path: ""
+      type: patreon
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+
+# Collections
+collections:
+  essentials:
+    output: true
+    permalink: /:collection/:path/
+  narrative:
+    output: true
+    permalink: /:collection/:path/
+  patreon:
+    output: true
+    permalink: /:collection/:path/
