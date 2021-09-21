@@ -1,5 +1,5 @@
 ---
-title: New Narrative for Musicians
+title: new narrative for musicians
 layout: collection
 permalink: /narrative/
 collection: narrative
