@@ -5,7 +5,7 @@ title: "2: your value"
 date:   2021-09-17 00:11:33 -0500
 ---
 ### conviction
-Before I tell you to go find your tribe of support, I first need to distill in you a conviction of your own value to others. 
+Before I tell you to go find your tribe of **Patrons**, I first need to distill in you a conviction of your own value to others. 
 
 While your music is involved your value comes first from **who you are**. A musician has within themselves many ways of being our culture is desparately missing. And you can bring them back.
 
@@ -33,12 +33,13 @@ Art is how the latest understandings of philosophy are distributed into a cultur
 When a musician wrestles with a new philosophy it comes out in their creations. Once created others can participate in and be changed by the concept.
 
 ## real value and worthy work
-Our culture neglected many vital aspects of life and musicians are uniquay qualified to bring that life back into culture. It's not easy. It takes time. It costs money. Not anyone can do this.
+Our culture neglected many vital aspects of life and musicians are uniquely qualified to bring that life back into culture. 
 
+It's not easy. It takes time. It costs money. Not anyone can do this.
 If you're willing to do this work, you deserve to be supported as you take it on. 
 
 ### next
-Which brings us back to **Patrons**—your partners. Let's talk about them in the beginning of the next collection [**patreon | why and how**](/patreon/)
+Which brings us back to **Patrons**—your partners. Let's talk about them next.
 
 ### resources and references
 Awakening from the Meaning Crisis with John Verveake
