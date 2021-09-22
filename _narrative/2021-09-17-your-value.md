@@ -12,22 +12,22 @@ While your music is involved your value comes first from **who you are**. A musi
 ## big thoughts
 Please allow me to speak on things beyond me to make my point about your value. I'll attempt to keep this from getting too heavy, but let's start big: 
 
-### meaning
+#### meaning
 Our culture has a plague of meaninglessness. I felt this growing up. A looming sense of pointlessness.
 
 Despite all odds musicians often find a sense of meaning in music. They pursue music against most rational analysis. Music making is complusory, and there is a kind of transcedent meaning drawn from that.
 
-### flow
+#### flow
 The happiest state achievable is flow. Many look for happiness in all kinds of other ways, but flow is best know for actually granting happiness. The more flow in the world the better. [Flow Book][r&r]
 
 Musicians, through practice and creation, are familiar with the state of flow. The act of teaching others your craft is teaching someone how to enter flow. Even creating music that engages the listener can grant the state of flow.
 
-### sprituality
+#### sprituality
 Our culture has closed the door to any notion of spirituality. Closing this door has unwittingly severed vital parts of the human experience away from most people. However there is a window open. Music has oddly maintained some amount of mystery and spritual connection.
 
 Music is the last place to reclaim a necessary part of human life. Musicians have a unique position to guide people back to a sprituality and to become more whole. 
 
-### philosophy
+#### philosophy
 Art is how the latest understandings of philosophy are distributed into a culture. Many ideas can't be directly taught to a general audience. But art allows people to interact wih an idea, experience an idea.
 
 When a musician wrestles with a new philosophy it comes out in their creations. Once created others can participate in and be changed by the concept.

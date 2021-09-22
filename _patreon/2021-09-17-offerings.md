@@ -3,6 +3,7 @@ category: patreon why and how
 excerpt: "what are you offering patrons?"
 title: "2: offerings"
 date:   2021-09-17 00:20:33 -0500
+published: false
 ---
 Because your music takes the center stage here I'd recommend you share some part of your process. 
 

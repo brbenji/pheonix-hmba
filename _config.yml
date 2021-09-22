@@ -302,7 +302,7 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: false
   # _narrative
   - scope:
       path: ""
@@ -313,7 +313,7 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: false
   # _patreon
   - scope:
       path: ""
@@ -324,7 +324,7 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: false
 
 # Collections
 collections:

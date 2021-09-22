@@ -3,6 +3,15 @@ layout: home
 author_profile: true
 ---
 <h3 style="color:grey">read through the collections</h3>
-<a href="/narrative/" style="text-decoration:none; margin: 5em;"><h1>new narrative for musicians</h1></a>
-<a href="/essentials/" style="text-decoration:none"><h1>online musician essentials</h1></a>
-<a href="/patreon/" style="text-decoration:none; margin: 5em;"><h1>patreon | why and how</h1></a>
+<a href="/narrative/" style="text-decoration:none"><h1>new narrative for musicians</h1></a>
+<a href="/essentials/" style="text-decoration:none; margin: 5em;"><h1>online musician essentials</h1></a>
+<br> </br>
+{% comment %} 
+	<a href="/patreon/" style="text-decoration:none; margin: 5em;"><h1>patreon | why and how</h1></a> 
+{% endcomment %}
+
+{% comment %}
+{% for collections in site.collections %}
+		<a href="{{ collections.relative_directory | slugify }}" style="text-decoration:none; margin: 1.5em"><h1>{{ collections.label }}</h1></a>
+{% endfor %}
+{% endcomment %}

@@ -1,5 +1,5 @@
 ---
-title: Online Musician Essentials
+title: online musician essentials
 layout: collection
 permalink: /essentials/
 collection: essentials
