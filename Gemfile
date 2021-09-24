@@ -13,5 +13,5 @@ gem "minimal-mistakes-jekyll", git: "https://github.com/brbenji/minimal-mistakes
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-data"
-# maybe add this there is config stuff to make it work too.  gem "jekyll-archives"
+  gem "jekyll-archives"
 end
