@@ -52,7 +52,7 @@ This brings us back to **Patrons**—your partners. Let us talk about them next.
 ## resources and references
 - [Alicia Keys' Tiny Desk Concert][Alicia] shows off her skills at delivering these ways of being. She is such a cultural force. 
 - [Awakening from the Meaning Crisis][meancris] with John Verveake goes much deeper into meaning.
-- [Flow: The Psychology of Optimal Experience][flow] by Mihaly Csikszentmihalyi originated the ideas on flow. 
+- [Flow: The Psychology of Optimal Experience][flow] by Mihaly Csikszentmihalyi originated the ideas on flow. *(paid link)*
 - [The quote under philosophy comes from Bret Weinstein][philo-dis]. *I am not an advocate for Bret W., but I love this quote about the role of music in philosophical ideas and the roundtable discussion the quote comes from.*
 
 [r&r]: #resources-and-references
