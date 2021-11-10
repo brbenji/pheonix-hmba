@@ -93,29 +93,33 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-5KYQZKHW97"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "ben"
-  avatar           : "/assets/images/profile_ben.webp"
+  avatar           : "/assets/images/profile_ben_color.webp"
+  home             : "/benbrown/"
   bio              : "hello and welcome."
   location         : "camping road trip!"
   email            :
   links:
-    - label: "Email"
+    - label: "email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ben.brown@howm.art"
-    - label: "Website"
+    - label: "website"
       icon: "fas fa-fw fa-link"
       url: "https://howmbase.com"
-    - label: "YouTube"
+    - label: "youTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com"
+      url: "https://youtube.com/user/brbenji"
+    - label: " portfolio"
+      icon: "fa fa-user-circle"
+      url: "/benbrown/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

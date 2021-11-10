@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/brbenji/minimal-mistakes.git
-  revision: 34e0972a8fb4d05c869a5761bf1d08ef767940af
+  revision: c2a5137916eae672e5e5f073ed49a4b827c15213
   specs:
     minimal-mistakes-jekyll (4.24.0)
       jekyll (>= 3.7, < 5.0)
@@ -43,7 +43,7 @@ GEM
     ffi (1.15.4)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
-    i18n (1.8.10)
+    i18n (1.8.11)
       concurrent-ruby (~> 1.0)
     jekyll (4.2.1)
       addressable (~> 2.4)
