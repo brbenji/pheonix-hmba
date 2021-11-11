@@ -93,9 +93,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-5KYQZKHW97"
+    tracking_id          : "UA-86433978-4"
     anonymize_ip         : # true, false (default)
 
 
@@ -119,7 +119,7 @@ author:
       url: "https://youtube.com/user/brbenji"
     - label: " portfolio"
       icon: "fa fa-user-circle"
-      url: "/benbrown/"
+      # url: "/benbrown/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -235,6 +235,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-data
+  - jekyll-target-blank
 
 # mimic GitHub Pages with --safe
 whitelist:
