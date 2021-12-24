@@ -38,7 +38,7 @@ https://bit.ly/howmcast-sam
 [sam's extra][se]
 
 [hp]: /your-howmcast/
-[dt]: {{ site.url }}/assets/audio/howmcast_2021June29_dolf-teaser.mp3
-[de]: {{ site.url }}/assets/audio/howmcast_2021June29_dolf-extra.mp3
-[st]: {{ site.url }}/assets/audio/howmcast_2021June29_sam-teaser.mp3
-[se]: {{ site.url }}/assets/audio/howmcast_2021June29_sam-extra.mp3
+[dt]: https://static1.squarespace.com/static/5d698e8665a29d0001afdc62/t/61c60d8a60e3d630052254e0/1640369549448/howmcast_2021June29_dolf_teaser.mp3/original/howmcast_2021June29_dolf_teaser.mp3?download=true
+[de]: https://static1.squarespace.com/static/5d698e8665a29d0001afdc62/t/61c60bb95725353bc7baf36a/1640369156717/howmcast_2021June29_dolf_extra.mp3/original/howmcast_2021June29_dolf_extra.mp3
+[st]: https://static1.squarespace.com/static/5d698e8665a29d0001afdc62/t/61c60ee3a84b9f02457de58d/1640369894512/howmcast_2021June29_sam-teaser.mp3/original/howmcast_2021June29_sam-teaser.mp3?download=true
+[se]: https://static1.squarespace.com/static/5d698e8665a29d0001afdc62/t/61c60dadcb90aa080ea3dc70/1640369633860/howmcast_2021June29_sam-extra.mp3/original/howmcast_2021June29_sam-extra.mp3?download=true
