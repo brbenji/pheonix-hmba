@@ -1,0 +1,23 @@
+---
+layout: default
+permalink: /objkt/
+---
+<html>
+<head><title>Ben is awesome</title></head>
+<body>
+stuff
+<script type="text/javascript">
+
+var oReq = new XMLHttpRequest();
+oReq.open("POST", "https://api.objkt.com/v1/graphql", true);
+
+oReq.onreadystatechange = function() {
+    if (this.readyState === XMLHttpRequest.DONE && this.status === 200) {
+        console.log(oReq.responseText);
+    }
+}
+
+oReq.send('{"operationName":"getObjktDetailed","variables":{"tokenId":"585085","fa2":"KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton"},"query":"query getObjktDetailed($tokenId: String!, $fa2: String!) {  token(where: { id: { _eq: $tokenId }, fa2_id: { _eq: $fa2 } }) {    ...TokenHolders  }}fragment UserDefault on holder {  address  alias  tzdomain}fragment TokenHolders on token {  token_holders(where: { quantity: { _gt: 0 } }) {    ...TokenHolderDefault  }}fragment TokenHolderDefault on token_holder {  holder {    ...UserDefault  }}"}');
+</script>
+</body>
+</html>
